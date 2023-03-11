@@ -22,8 +22,8 @@ authors:
     twitter: https://twitter.com/Sgtbomb
     description: "Personal Blog of James Watson, Computer Nerd, History buff and Music Guru."
   john:
-    name: John
-    display_name: John    
+    name: Bob
+    display_name: Bob 
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
